@@ -1,0 +1,36 @@
+body{
+    background-color: #1d1d1d;
+    color: #2272FF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    background-color: #BAFF39;
+    height: 4em;
+    width: 8em;
+    border-radius: 60px;
+}
+.container{
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+h1{
+    font-size: 50px;
+    color: #BAFF39;
+}
+div.container{
+    font-size: 35px;
+}
+#date{
+    color: aquamarine;
+}
+#watch{
+    color: aquamarine;
+}
+.stopit{
+    font-size: 35   px;
+}
+.spacing{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
